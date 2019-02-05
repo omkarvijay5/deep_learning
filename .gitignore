@@ -1,0 +1,4 @@
+# these are generated automatically by scrips
+*.xml
+*.csv
+*.record
