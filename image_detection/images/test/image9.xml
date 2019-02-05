@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>image4.jpg</filename>
+	<path>/home/omkar/Desktop/projects/deep_learning/image_detection/images/test/image4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>212</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hitex arch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>24</ymin>
+			<xmax>195</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>151</ymin>
+			<xmax>74</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

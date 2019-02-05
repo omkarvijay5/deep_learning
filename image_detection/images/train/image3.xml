@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image3.jpg</filename>
+	<path>/home/omkar/Desktop/projects/deep_learning/image_detection/images/image3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fz bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>9</ymin>
+			<xmax>298</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>
